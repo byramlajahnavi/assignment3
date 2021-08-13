@@ -1,0 +1,39 @@
+.one
+{
+    height:400px;
+    width:100%;
+    background-color:gold;
+    display:flex;
+    justify-content:space-evenly;
+    padding:50;
+}
+
+.one_child
+{
+    height: 100px;
+    width: 100px;
+    padding:10px;
+}
+
+
+
+.two
+{
+    height: 300px;
+    width: 100%;
+    background-color: yellowgreen;
+    padding:50;
+    justify-content:space-evenly;
+    display:flex;
+
+}
+.two_child
+{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+       
+}
+
+
+
